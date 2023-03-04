@@ -31,6 +31,10 @@ public class Calculadora {
 		return a - b;
 	}
 	
+	public static int igual (int a, int b) {
+		return a = b;
+	}
+	
 	public static int divisao (int a, int b) {
 		return a / b;
 	}
